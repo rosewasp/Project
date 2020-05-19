@@ -1,4 +1,5 @@
-.carousel-inner > .item {
+.carousel-inner {
+  max-width: 400px;
   max-height: 400px;
 }
 
