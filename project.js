@@ -13,6 +13,8 @@ app.set("view engine", "handlebars");
 // set the port number for the URL
 app.set("port", 14988);
 
+app.use(express.static('public'));
+
 // renders the sub1.handlebars file at the homepage
 app.get("/",function(req,res){
     res.render("sub1");
