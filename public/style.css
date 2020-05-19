@@ -1,3 +1,7 @@
-.carousel-inner img > .item {
+.carousel-inner > .item {
   height: 400px;
+}
+
+img {
+  max-height: fit-content;
 }
