@@ -8,3 +8,9 @@ img {
 .container {
   width: auto;
 }
+
+div.acti {
+  width: auto;
+  height: auto;
+  overflow: scroll;
+}
