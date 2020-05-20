@@ -19,13 +19,18 @@ div.acti {
   overflow: scroll;
 }
 
+div.list {
+  background-color: none;
+  margin: 0 auto;
+  width: 75%;
+  padding: 10px 15px 15px 5px;
+}
+
 ul {
-  margin: 0;
-  background: None;
+  background-color: LightBlue;
+  list-style-type: armenian;
   position: relative;
-  list-style-type: circle;
-  top: 50%;
-  left: 50%;
-  margin-right: -50%;
-  transform: translate(-50%, -50%) }
-  }
+  width: 50%;
+  margin: 0 auto;
+}
+ 
