@@ -3,6 +3,9 @@ img, figcaption {
   margin: 0 auto;
   width: 50%;
 }
+body {
+  background-color: navajowhite;
+}
 
 .container {
   margin: 0 auto;
@@ -32,7 +35,7 @@ div.acti {
   height: 500px;
   width: fit-content;
   overflow: scroll;
-  background-color: grey;
+  background-color: lightblue;
 }
 
 div.list {
