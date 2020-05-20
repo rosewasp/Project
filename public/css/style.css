@@ -32,11 +32,13 @@ h1 {
 }
 
 h3 {
+  font-family: "Lucida Console", Monaco, monospace;
   text-align: center;
   color: #4CAF50;
 }
 
 h4 {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-style: oblique;
   color: crimson;
 }
