@@ -13,8 +13,8 @@ div.acti {
   box-sizing: content-box;
   display: block;
   margin: 0 auto;
-  padding: 20px;
   height: 500px;
+  width: fit-content;
   overflow: scroll;
 }
 
