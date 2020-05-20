@@ -5,7 +5,7 @@ img, figcaption {
 }
 
 .container {
-  width: auto;
+  margin: 0 auto;
 }
 
 div.acti {
