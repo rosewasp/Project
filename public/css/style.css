@@ -12,7 +12,7 @@ div.acti {
   border-style: double;
   display: block;
   margin: 0 auto;
-  width: auto;
+  width: 0 auto;
   height: 500px;
   overflow: scroll;
 }
