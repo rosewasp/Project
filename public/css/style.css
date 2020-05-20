@@ -22,7 +22,6 @@ div.acti {
 ul {
   margin: 0;
   background: None;
-  position: absolute;
   list-style-type: circle;
   top: 50%;
   left: 50%;
