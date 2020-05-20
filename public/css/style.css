@@ -11,7 +11,10 @@ img, figcaption {
 
 ul {
   list-style-type: circle;
-  border: 1px solid black;
+  border: 1px solid red;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
   }
 
 div.acti {
