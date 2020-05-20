@@ -13,7 +13,10 @@ ul {
   text-align: justify;
   list-style: inside;
   list-style-type: circle;
-  border: 1px solid red;
+  padding: 12px 45px;
+  margin-bottom: 6px;
+  border-top: 2px solid red;
+  border-bottom: 1px solid gray;
   }
 
 div.acti {
