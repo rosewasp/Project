@@ -8,6 +8,10 @@ img, figcaption {
   margin: 0 auto;
 }
 
+.menu {
+  margin: 0 auto;
+}
+
 div.acti {
   border-style: double;
   box-sizing: content-box;
@@ -30,9 +34,5 @@ ul {
   list-style-type: circle;
   position: relative;
   width: 50%;
-  margin: 0 auto;
-}
-
-#menu {
   margin: 0 auto;
 }
