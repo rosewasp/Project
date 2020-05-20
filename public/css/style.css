@@ -9,6 +9,10 @@ img, figcaption {
   width: auto;
 }
 
+ul {
+  list-style-type: circle;
+}
+
 div.acti {
   border-style: double;
   display: block;
@@ -17,8 +21,4 @@ div.acti {
   width: auto;
   height: 500px;
   overflow: scroll;
-}
-
-ul {
-  border-style: solid blue;
 }
