@@ -11,6 +11,7 @@ img, figcaption {
 
 ul {
   list-style-type: circle;
+  border-style: solid blue;
 }
 
 div.acti {
