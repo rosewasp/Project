@@ -1,3 +1,7 @@
+body {
+  background-image: url("./img/theWarRoom.jpg");
+}
+
 img, figcaption {
   display: block;
   margin: 0 auto;
