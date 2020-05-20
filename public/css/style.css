@@ -14,9 +14,6 @@ ul {
   list-style: inside;
   list-style-type: circle;
   border: 1px solid red;
-  position: relative;
-  left: 1em;
-  top: 1em;
   }
 
 div.acti {
