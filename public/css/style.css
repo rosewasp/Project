@@ -13,8 +13,18 @@ ul {
   text-align: justify;
   list-style: inside;
   list-style-type: circle;
+  box-sizing: border-box;
+  width: auto;
+  height: auto;
+  padding: 50px;
   border: 2px solid lightskyblue;
-  box-sizing: content-box;
+  margin: 0;
+  background: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
   }
 
 div.acti {
