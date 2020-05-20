@@ -10,6 +10,8 @@ img, figcaption {
 }
 
 ul {
+  text-align: center;
+  list-style: inside;
   list-style-type: circle;
   border: 1px solid red;
   position: relative;
