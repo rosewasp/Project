@@ -9,18 +9,6 @@ img, figcaption {
   width: auto;
 }
 
-ul {
-  text-align: justify;
-  list-style: inside;
-  list-style-type: circle;
-  border: 2px solid lightskyblue;
-  box-sizing: content-box;
-  position: relative;
-  width: 75%;
-  text-align: center;
-  margin: 0 auto;
-  }
-
 div.acti {
   border-style: double;
   display: block;
@@ -31,10 +19,13 @@ div.acti {
   overflow: scroll;
 }
 
-margin: 0;
-background: yellow;
-position: absolute;
-top: 50%;
-left: 50%;
-margin-right: -50%;
-transform: translate(-50%, -50%) }
+ul {
+  margin: 0;
+  background: None;
+  position: absolute;
+  list-style-type: circle;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) }
+  }
