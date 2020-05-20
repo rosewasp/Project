@@ -8,11 +8,12 @@ img, figcaption {
   margin: 0 auto;
 }
 
-.menu, .form, h1, h2, .acti{
+.menu, .form, h1, h2{
   height: auto;
   width: fit-content;
   margin: 0 auto;
-  padding-top: 100px
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 div.acti {
