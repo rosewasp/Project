@@ -27,6 +27,10 @@ h3, h4 {
   padding-bottom: 5px;
 }
 
+h1 {
+  font-family: Impact, Charcoal, sans-serif;
+}
+
 h3 {
   text-align: center;
   color: #4CAF50;
