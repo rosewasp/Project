@@ -20,7 +20,7 @@ ul {
   border: 2px solid lightskyblue;
   margin: 0;
   background: none;
-  position: fixed;
+  position: static;
   top: 50%;
   left: 50%;
   margin-right: -50%;
