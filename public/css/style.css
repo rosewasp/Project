@@ -33,7 +33,10 @@ ul {
   margin: 0 auto;
 }
  
-#menu {
-  display: block;
-  margin: 0 auto;
+#menu{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
 }
