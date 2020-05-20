@@ -27,7 +27,7 @@ div.list {
 
 ul {
   background-color: LightBlue;
-  list-style-type: armenian;
+  list-style-type: circle;
   position: relative;
   width: 50%;
   margin: 0 auto;
