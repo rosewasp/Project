@@ -33,7 +33,7 @@ div.acti {
   display: block;
   margin: 0 auto;
   height: 500px;
-  width: fit-content;
+  width: min-content;
   overflow: scroll;
   background-color: lightblue;
 }
