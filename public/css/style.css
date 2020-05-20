@@ -32,7 +32,7 @@ div.acti {
   box-sizing: content-box;
   display: block;
   margin: 0 auto;
-  height: 500px;
+  height: 600px;
   width: fit-content;
   overflow: scroll;
   background-color: lightblue;
