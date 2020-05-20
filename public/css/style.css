@@ -20,5 +20,6 @@ div.acti {
 }
 
 ul {
+  border-style: solid round blue;
   list-style: inside;
 }
