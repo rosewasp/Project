@@ -14,6 +14,7 @@ ul {
   list-style: inside;
   list-style-type: circle;
   border: 2px solid lightskyblue;
+  box-sizing: content-box;
   }
 
 div.acti {
