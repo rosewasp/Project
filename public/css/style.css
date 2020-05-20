@@ -9,18 +9,6 @@ img, figcaption {
   width: auto;
 }
 
-ul {
-  text-align: justify;
-  list-style: inside;
-  list-style-type: circle;
-  border: 2px solid lightskyblue;
-  box-sizing: content-box;
-  position: relative;
-  width: 75%;
-  text-align: center;
-  margin: 0 auto;
-  }
-
 div.acti {
   border-style: double;
   display: block;
@@ -29,4 +17,10 @@ div.acti {
   width: auto;
   height: 500px;
   overflow: scroll;
+}
+
+div.list {
+  padding: 70px 0;
+  border: 3px solid green;
+  text-align: center;
 }
