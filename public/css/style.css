@@ -18,3 +18,8 @@ div.acti {
   height: 500px;
   overflow: scroll;
 }
+
+ul {
+  text-align: center;
+  list-style: inside;
+}
