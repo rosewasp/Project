@@ -56,6 +56,7 @@ h3 {
 /*used to highlight release date for each movie*/
 h4 {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: center;
   font-style: oblique;
   color: crimson;
 }
