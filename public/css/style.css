@@ -44,6 +44,7 @@ h3, h4 {
 /*changes text font*/
 h1, h2 {
   font-family: Impact, Charcoal, sans-serif;
+  text-align: center;
 }
 
 /*changes title font and text color*/
