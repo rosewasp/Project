@@ -27,6 +27,7 @@ body {
 .menu, .form, h1, h2 {
   height: auto;
   width: fit-content;
+  text-align: center;
   margin: 0 auto;
   padding-top: 50px;
   padding-bottom: 50px;
