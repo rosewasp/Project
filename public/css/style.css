@@ -1,22 +1,29 @@
+/*centers each image and its caption*/
 img, figcaption {
   display: block;
   margin: 0 auto;
   width: 50%;
 }
+
+/*sets background color for the entire body*/
 body {
   background-color: navajowhite;
 }
 
+/*centers carousel*/
 .container {
   margin: 0 auto;
 }
 
+/*centers form elements and changes font*/
 #center {
   height: auto;
   width: fit-content;
   margin: 0 auto;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
+
+/*centers mulpiple elements: tiles of pages and horizontal menu*/
 .menu, .form, h1, h2 {
   height: auto;
   width: fit-content;
@@ -25,6 +32,7 @@ body {
   padding-bottom: 50px;
 }
 
+/*centers various titles*/
 h3, h4 {
   height: auto;
   width: fit-content;
@@ -33,22 +41,26 @@ h3, h4 {
   padding-bottom: 5px;
 }
 
+/*changes text font*/
 h1, h2 {
   font-family: Impact, Charcoal, sans-serif;
 }
 
+/*changes title font and text color*/
 h3 {
   font-family: Impact, Charcoal, sans-serif;
   text-align: center;
   color: #4CAF50;
 }
 
+/*used to highlight release date for each movie*/
 h4 {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-style: oblique;
   color: crimson;
 }
 
+/*places information in /sub1 in a scrollbox*/
 div.acti {
   border-style: double;
   box-sizing: content-box;
@@ -60,6 +72,7 @@ div.acti {
   background-color: lightblue;
 }
 
+/*positions each unordered list at specific position in the page*/
 div.list {
   background-color: none;
   margin: 0 auto;
@@ -67,6 +80,7 @@ div.list {
   padding: 10px 15px 15px 5px;
 }
 
+/*highlights each block of list, sets text font, and changes list's bullet type*/
 ul {
   background-color: LightBlue;
   list-style-type: circle;
